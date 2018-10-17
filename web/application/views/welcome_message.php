@@ -2,7 +2,7 @@
         <section class="hero hero-style-1 hero-slider-wrapper">
             <div class="hero-slider">
                 <div class="slide">
-                    <img src="assets/images/slider/slide-1.jpg" alt class="slider-bg">
+                    <img src="<?php echo base_url()?>assets/images/action-adult.jpg" alt class="slider-bg">
                     <div class="container">
                         <div class="row">
                             <div class="col col-md-8 col-sm-9 slide-caption">
@@ -18,7 +18,7 @@
                 </div>
 
                 <div class="slide">
-                    <img src="assets/images/slider/slide-2.jpg" alt class="slider-bg">
+                    <img src="<?php echo base_url()?>assets/images/action-adult.jpg" alt class="slider-bg">
                     <div class="container">
                         <div class="row">
                             <div class="col col-md-8 col-sm-9 slide-caption">
@@ -34,7 +34,7 @@
                 </div>
 
                 <div class="slide">
-                    <img src="assets/images/slider/slide-3.jpg" alt class="slider-bg">
+                    <img src="<?php echo base_url()?>assets/images/action-adult.jpg" alt class="slider-bg">
                     <div class="container">
                         <div class="row">
                             <div class="col col-md-8 col-sm-9 slide-caption">
