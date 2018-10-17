@@ -1,5 +1,5 @@
 <!-- start of hero -->   
-        <section class="hero hero-style-1 hero-slider-wrapper">
+        <section class="hero hero-style-1 hero-slider-wrapper"  style="height: 500px !important">
             <div class="hero-slider">
                 <div class="slide">
                     <img src="<?php echo base_url()?>assets/images/action-adult.jpg" alt class="slider-bg">
@@ -59,7 +59,7 @@
                 <div class="row">
                     <div class="col col-xs-12">
                         <div class="section-title">
-                            <h2>Bantu Crud</h2>
+                            <h2>Bantu Mereka</h2>
                         </div>
                     </div>
                 </div>
