@@ -1,0 +1,42 @@
+.service-grids{
+  padding-top: 10px !important;
+}
+
+.service-grids .grid .ctnt{
+  box-shadow: 0px 0px 32px -3px rgba(0,0,0,0.64);
+  padding: 20px !important;
+}
+
+.service-grids .grid .ctnt .ttl{
+  height: 60px;
+}
+
+.service-grids .grid .ctnt .content {
+
+}
+
+.service-grids .grid .service-details{
+  position: relative;
+}
+
+.service-grids .grid .service-details h3:after{
+  margin-top: 30px !important;
+}
+
+.service-grids .grid .service-details div{
+  margin-bottom: 20px;
+}
+
+.service-grids .grid .service-details .donate{
+  bottom: 0;
+  left: 0;
+}
+
+.progress-bar span {
+  font-size: 10px !important;
+  width: 30px !important;
+  height: 30px !important;
+  line-height: 30px !important;
+  font-weight: bold;
+}
+
