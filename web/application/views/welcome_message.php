@@ -59,7 +59,7 @@
                 <div class="row">
                     <div class="col col-xs-12">
                         <div class="section-title">
-                            <h2>Our Services</h2>
+                            <h2>Bantu Crud</h2>
                         </div>
                     </div>
                 </div>
